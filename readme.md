@@ -1,4 +1,4 @@
-# Commander
+# User migration tool
 
 Create multiple users at once and generate them the passwords. 
 
